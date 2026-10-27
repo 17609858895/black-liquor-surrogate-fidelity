@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+analysis/data_derived/
+analysis/results/
+*.xlsb
+*.xlsx
+*.docx
+*.pdf
+*.png
+*.zip
